@@ -42,8 +42,7 @@ def pageGrab(link):
         
 
 
-exceptionList = ["pass", "leak", "crack", "dox", "credit", "visa"
-, "proxy", "stolen", "email", "username", "mail", "ftp"]
+exceptionList = [""] # add keywords here to search for them in pastebin titles
 
 while True:
     archiveGrab(exceptionList)
