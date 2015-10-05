@@ -1,3 +1,5 @@
+# Author is Flynn Acworth
+
 import requests
 from bs4 import BeautifulSoup
 import bs4
